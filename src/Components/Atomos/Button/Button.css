@@ -1,0 +1,14 @@
+.col-btn{
+    position: absolute;
+    margin-top: -170px;
+    margin-left: 17%;
+    width: 120px;
+    background-color: #5772ff;
+    color: white;
+    font-size: 15px;
+    font-family: Arial, sans-serif;
+    padding: 15px;
+    border: transparent;
+    border-radius: 7px;
+    
+}

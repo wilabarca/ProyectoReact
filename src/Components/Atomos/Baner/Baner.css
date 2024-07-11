@@ -1,0 +1,47 @@
+.baner {
+    position: relative;
+    top: 685px;
+    transform: translateY(-50%);
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+    height: 300px;
+}
+
+.clo-10 {
+    font-size: 29px;
+    font-family: sans-serif;
+    color: #f9710f;
+    margin-bottom: 10px;
+}
+
+.info {
+    font-size: 1.2rem;
+    color: #0e409b;
+    font-family: sans-serif;
+    font-size: 22px;
+    margin-bottom: 10px;
+    line-height: 1.9;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-left: 37%;
+}
+
+.in-12 {
+    font-size: 1.2rem;
+    color: #1830b4;
+    font-family: sans-serif;
+    font-size: 19px;
+    margin-bottom: 10px;
+    line-height: 1.9;
+    max-width: 80%;
+    margin: 0 auto;
+    margin-left: 26%;
+    margin-top: 50px;
+}
+
+.card-12 {
+    margin-top: 10%;
+    width: 50%;
+    margin-left: 27%;
+}

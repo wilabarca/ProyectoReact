@@ -1,0 +1,126 @@
+
+form {
+    width: 100%;
+    border-radius: 100px;
+    display: flex;
+    height: 105%;
+    flex-direction: column;
+    align-items: center;
+    border: 2px solid #b4b4b4;
+    text-align: center;
+    margin-left: 24%;
+    margin-top: 7%;
+    box-sizing: border-box;
+}
+
+.title-12 {
+    color: black;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    margin-left: -63%;
+    margin-bottom: 20px;
+    margin-top: -1%;
+}
+
+.form-registro {
+    width: 55%;
+    height: 430px;
+    display: flex;
+    border-radius: 9px;
+    flex-direction: column;
+    justify-content: space-around;
+    border: 2px solid #d3d3d3;
+    text-align: center;
+    padding: 20px;
+    box-sizing: border-box;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.form-group label {
+    font-family: sans-serif;
+    font-size: 18px;
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+.form-group input {
+    margin-left: -141%;
+    margin-top: -30px;
+    width: 130%;
+    padding: 11px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    transition: border-color 0.3s ease;
+}
+
+.form-group input:focus {
+    border-color: #1a8bb1;
+}
+
+.form-button {
+    width: 130px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: #105eb1;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 13%;
+    margin-top: 1%;
+}
+
+.form-button:hover {
+    background-color: #242d24;
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+}
+
+.footer img {
+    width: 50px;
+    height: auto;
+    transition: transform 0.3s ease;
+}
+
+.footer img:hover {
+    transform: scale(1.2);
+}
+
+.google, .Meta-1, .aple-2 {
+    margin-top: -7%;
+    width: 50px;
+   
+    
+}
+.aple-2{
+    margin-left: -109%;
+}
+.google{
+    margin-left: -130%;
+}
+.Meta-1{
+    margin-left: -111%;
+}
+.imagen {
+    position: absolute;
+    top: -33%;
+    left: 29%;
+    width: 460px;
+    height: 430px;
+    margin-left: 20%;
+    margin-top: 22%;
+}

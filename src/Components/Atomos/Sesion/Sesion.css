@@ -1,0 +1,26 @@
+.sesion {
+    background-color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 10px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 110%;
+    color: rgb(0, 0, 0);
+    height: auto;
+    margin-left: 580%;
+    width: 100%;
+    padding: 10px 30px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease; 
+    text-align: center;
+    display: inline-block;
+    margin-top: 0px;
+}
+
+.sesion:hover {
+    background-color: #e0e0e0;
+}
+
+.sesion:focus {
+    outline: none;
+}
